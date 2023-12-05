@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pwork8, skoropech/1.0.0": {
+        "runtime": {
+          "pwork8, skoropech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pwork8, skoropech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
